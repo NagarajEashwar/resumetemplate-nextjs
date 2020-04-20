@@ -1,7 +1,7 @@
 {
   "title": "resumetemplate-nextjs",
   "description": "Starter Resume using Tina CMS with Next.js.",
-  "repositoryUrl": "https://github.com/NagarajEashwar",
+  "repositoryUrl": "https://github.com/test",
   "main": {
     "name": "Nagaraj Kaliyappan",
     "occupation": "Project Specialist (Web Developer)",
@@ -9,8 +9,8 @@
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "nagarajitgct@gmail.com",
-    "phone": "9952966983",
+    "email": "test@gmail.com",
+    "phone": "5555-55555",
     "address": {
       "street": "Valluvar Nagar",
       "city": "Coimbatore",
@@ -22,7 +22,7 @@
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/nagu598",
+        "url": "http://facebook.com/test",
         "className": "fa fa-facebook"
       },
       {
@@ -32,12 +32,12 @@
       },
       {
         "name": "google-plus",
-        "url": "http://googleplus.com/tbakerx",
+        "url": "http://googleplus.com/test",
         "className": "fa fa-google-plus"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/nagarajKaliyappan/",
+        "url": "https://www.linkedin.com/in/test/",
         "className": "fa fa-linkedin"
       },
       {
@@ -47,7 +47,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/NagarajEashwar",
+        "url": "https://github.com/test",
         "className": "fa fa-github"
       },
       {
