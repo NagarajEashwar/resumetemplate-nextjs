@@ -14,7 +14,7 @@
 In your terminal, navigate to where you would like this blog to live, then run 
 ```bash
 #clone the repo
-git clone git@github.com:kendallstrautman/resumetemplate-nextjs.git
+git clone https://github.com/NagarajEashwar/resumetemplate-nextjs.git
 
 #navigate to the directory
 cd resumetemplate-nextjs
