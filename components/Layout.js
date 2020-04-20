@@ -6,7 +6,7 @@ import Contact from './Contact';
 import Testimonials from './Testimonials';
 import Portfolio from './Portfolio';
 import Meta from './Meta';
-const resumeData = import(`../public/resumeData.json`);
+
 export default function Layout(props) {
   return (
     <section
@@ -23,9 +23,7 @@ export default function Layout(props) {
       <Header data={props.main} siteTitle={props.siteTitle} />
       <About data={props.main} />
       <Resume data={props.resume} />
-      {/* <Portfolio data={resumeData.portfolio} /> */}
       <Testimonials data={props.testimonials} />
-      {/* <Contact data={resumeData.main} /> */}
       <Footer data={props.main} />
       <div className="content">{props.children}</div>
       <style jsx>

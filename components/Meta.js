@@ -40,7 +40,6 @@ export default function Meta(props) {
         <script src="/js/modernizr.js"></script>
         <script src="/js/waypoints.js"></script>
         <script src="/js/init.js"></script>
-        <script type="text/javascript" src="/resumeData.json"></script>
       </Head>
       <style jsx global>
         {`
